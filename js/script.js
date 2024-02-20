@@ -1,7 +1,7 @@
 var navbar = ` 
 <nav>
     <div class="logo">
-        <a href='#'><img src="../img/DHTML.png" alt="DHTML logo"></a>
+        <a href='../index.html'><img src="../img/DHTML.png" alt="DHTML logo"></a>
     </div>
     <div class="navigation">
         <input type="checkbox" class="toggle-menu">
